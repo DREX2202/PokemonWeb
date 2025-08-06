@@ -23,7 +23,7 @@ html, body{
 
 }
 .caption span.border{
-    background-color: #f90202;
+    background-color: purple;
     color: white;
     padding: 20px;
     font-size: 25px;
@@ -67,3 +67,4 @@ html, body{
     text-align: center;
     padding: 50px 80px;
 }
+
